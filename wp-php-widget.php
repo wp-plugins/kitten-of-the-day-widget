@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Kitten of the day widget!
-Plugin URI: http://www.dailywidget.com/wp-php-widget
+Plugin URI: http://dailywidget.com/cute-kitten-of-the-day-widget/
 Description: OMG cute kittens every day for your widget bar!
 Author: Daily Widget
-Version: 0.5beta
+Version: 0.51
 Author URI: http://www.dailywidget.com
 */
 

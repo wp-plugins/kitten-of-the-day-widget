@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: kendildonic (this should be a list of wordpress.org userid's)
+Contributors: dailywidget
 Donate link: http://dailywidget.com/
 Tags: widget,kittens,daily,picture,cute
 Requires at least: 3.0
 Tested up to: 3.1.3
-Stable tag: 0.5
+Stable tag: 0.51
 
 Display a widget with a cute picture of a kitten, rotated daily.
 
