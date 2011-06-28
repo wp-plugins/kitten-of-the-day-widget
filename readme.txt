@@ -1,16 +1,24 @@
 === Plugin Name ===
 Contributors: dailywidget
 Donate link: http://dailywidget.com/
+Author URI: http://dailywidget.com/
 Tags: widget,kittens,daily,picture,cute
 Requires at least: 3.0
 Tested up to: 3.1.3
-Stable tag: 0.51
+Stable tag: 0.60
 
 Display a widget with a cute picture of a kitten, rotated daily.
+
 
 == Description ==
 
 Display a widget on your sidebar with a cute picture of a kitten. The pictures are rotated daily.
+
+Once you install, just drag the Kittenz widget item to your sidebar in the admin dashboard.
+
+Please leave any comments or suggestions in the message board.
+
+See the widget in action by viewing the "Screenshots" tab or visiting [DailyWidget](http://dailywidget.com/ "Free kitten widget for Wordpress").
 
 == Installation ==
 
@@ -32,9 +40,24 @@ None yet.
 
 == Screenshots ==
 
-1. The widget is on the right side, in the Wordpress sidebar.
+1. The widget in action.
+2. The widget is on the right side, in the Wordpress sidebar.
+
+== Upgrade Notice ==
+
+= 0.6 =
+
+Some CSS styling issues fixed and corners rounded for a softer look.
 
 == Changelog ==
+
+= 0.6 =
+
+Updated the css to override various template settings so it will render correctly in any theme. Corners of the widget are also now rounded for a softer look.
+
+= 0.51 =
+
+Just a couple of bugfixes.
 
 = 0.5 =
 
