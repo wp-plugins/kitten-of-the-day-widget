@@ -5,7 +5,7 @@ Author URI: http://dailywidget.com/
 Tags: widget,kittens,daily,picture,cute
 Requires at least: 3.0
 Tested up to: 3.1.3
-Stable tag: 0.61
+Stable tag: 0.62
 
 Display a widget with a cute picture of a kitten, rotated daily.
 
@@ -45,6 +45,10 @@ None yet.
 
 == Upgrade Notice ==
 
+= 0.62 =
+
+Small CSS change for better formatting
+
 = 0.61 =
 
 Small bugfix
@@ -54,6 +58,10 @@ Small bugfix
 Some CSS styling issues fixed and corners rounded for a softer look.
 
 == Changelog ==
+
+= 0.62 = 
+
+Small CSS change for better formatting
 
 = 0.61 =
 

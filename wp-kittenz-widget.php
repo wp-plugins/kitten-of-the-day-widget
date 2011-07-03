@@ -4,7 +4,7 @@ Plugin Name: Kitten of the day widget!
 Plugin URI: http://dailywidget.com/cute-kitten-of-the-day-widget/
 Description: OMG cute kittens every day for your widget bar!
 Author: Daily Widget
-Version: 0.61
+Version: 0.62
 Author URI: http://dailywidget.com
 */
 
@@ -19,11 +19,9 @@ class KittenzOfTheDay extends WP_Widget {
 
 		$link = htmlspecialchars($instance['link'], ENT_QUOTES);
 
-		$body2 = '<div style="border-radius:5px;width:175px;border:1px solid black;background-color:#FFFFFF;padding:0px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:20px;">
-			    <div style="font-weight:bold;border-radius:0px;width:175px;text-align:center;background-color:#000000;color:#FFFFFF;text-decoration:none;text-transform:uppercase;font-family:verdana,helvetica,arial,sans-serif;font-size:15px;padding:0px;line-height:19px;">CUTE KITTEN OF THE DAY!</div>
-			    <div style="border-radius:0px;width:173px;padding:3px 0px 0px 0px;text-align:center;margin-left:auto;margin-right:auto;margin-bottom:auto;display:absolute;position:static;"><img style="border-radius:5px; border:1px solid black;float:center;padding:0px;margin:0px;display:inherit;position:static;margin-left:auto;margin-right:auto;" width="165" src="http://kittens.dailywidget.com/kitten.jpg" /></div>';
+		$body2 = '<div style="border-radius:5px;width:175px;border:1px solid black;background-color:#FFFFFF;padding:0px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:20px;"><div style="font-weight:bold;border-radius:0px;text-align:center;background-color:#000000;color:#FFFFFF;text-decoration:none;text-transform:uppercase;font-family:verdana,helvetica,arial,sans-serif;font-size:15px;padding:0px 5px 0px 5px;line-height:19px;">CUTE KITTEN OF THE DAY!</div><div style="border-radius:0px;width:173px;padding:3px 0px 0px 0px;text-align:center;margin-left:auto;margin-right:auto;margin-bottom:auto;display:absolute;position:static;"><img style="border-radius:5px; border:1px solid black;float:center;padding:0px;margin-top:0px;margin-bottom:3px;display:inherit;position:static;margin-left:auto;margin-right:auto;" width="165" src="http://kittens.dailywidget.com/kitten.jpg" /></div>';
 
-		$body3 = '<div style="width:170px;text-align:right;padding:4px 5px 5px 0px;margin:0px;border:0px;"><a href="http://goo.gl/OAATx" style="font-weight:normal;text-decoration:none;color:#FF0000;font-family:verdana,helvetica,arial,sans-serif;font-size:8px;padding:0px;margin:0px;line-height:8px;display:inherit;position:static;">(get widget)</a></div>';
+		$body3 = '<div style="width:170px;text-align:right;padding:0px 5px 5px 0px;margin:0px;border:0px;"><a href="http://goo.gl/OAATx" style="font-weight:normal;text-decoration:none;color:#FF0000;font-family:verdana,helvetica,arial,sans-serif;font-size:8px;padding:0px;margin:0px;line-height:8px;display:inherit;position:static;">(get widget)</a></div>';
 
 		$body4 = '</div>';
 
