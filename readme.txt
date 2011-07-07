@@ -4,7 +4,7 @@ Donate link: http://dailywidget.com/
 Author URI: http://dailywidget.com/
 Tags: widget,kittens,daily,picture,cute
 Requires at least: 3.0
-Tested up to: 3.1.3
+Tested up to: 3.2
 Stable tag: 0.62
 
 Display a widget with a cute picture of a kitten, rotated daily.
